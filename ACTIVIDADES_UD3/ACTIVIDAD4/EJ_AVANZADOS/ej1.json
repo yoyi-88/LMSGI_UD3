@@ -1,0 +1,65 @@
+{
+    "escuela": {
+      "estudiantes": [
+        {
+          "nombre": "Yoël Gómez",
+          "edad": 19,
+          "asignaturas": [
+            {
+              "asignatura": "Programación",
+              "calificacion": 85
+            },
+            {
+              "asignatura": "Lenguaje de Marcas",
+              "calificacion": 90
+            }
+          ]
+        },
+        {
+          "nombre": "Álvaro Pérez",
+          "edad": 19,
+          "asignaturas": [
+            {
+              "asignatura": "Entornos de Desarrollo",
+              "calificacion": 88
+            },
+            {
+              "asignatura": "Bases de Datos",
+              "calificacion": 92
+            }
+          ]
+        }
+      ],
+      "profesores": [
+        {
+          "nombre": "Jason Ruíz",
+          "edad": 40,
+          "asignaturas_que_enseña": ["Programación", "Lenguaje de Marcas"]
+        },
+        {
+          "nombre": "Paco Candela",
+          "edad": 35,
+          "asignaturas_que_enseña": ["Entornos de Desarrollo", "Bases de Datos"]
+        }
+      ],
+      "asignaturas": [
+        {
+          "nombre": "Programación",
+          "creditos": 4
+        },
+        {
+          "nombre": "Lenguaje de Marcas",
+          "creditos": 3
+        },
+        {
+          "nombre": "Entornos de Desarrollo",
+          "creditos": 2
+        },
+        {
+          "nombre": "Bases de Datos",
+          "creditos": 3
+        }
+      ]
+    }
+  }
+  

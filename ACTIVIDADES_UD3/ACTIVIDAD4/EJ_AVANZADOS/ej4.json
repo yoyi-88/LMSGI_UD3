@@ -1,0 +1,58 @@
+{
+    "empresa": {
+      "empleados": [
+        {
+          "nombre": "Noa Gómez",
+          "edad": 28,
+          "cargo": "Diseñadora artística",
+          "salario": 90000,
+          "proyectos": [
+            {
+              "nombre_proyecto": "Diseño de sitio web",
+              "fecha_inicio": "12/8/2024",
+              "tareas": [
+                "Diseño de interfaces",
+                "Implementación de estilos CSS",
+                "Uso de JsonS"
+              ]
+            },
+            {
+              "nombre_proyecto": "Reestructurado de página web",
+              "fecha_inicio": "8/9/2024",
+              "tareas": [
+                "Pruebas funcionales",
+                "Corrección de errores visuales"
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Gloria Benítez",
+          "edad": 35,
+          "cargo": "Líder de Proyecto",
+          "salario": 67000,
+          "proyectos": [
+            {
+              "nombre_proyecto": "Aplicación de E-commerce",
+              "fecha_inicio": "7/12/2022",
+              "tareas": [
+                "Planificación del proyecto",
+                "Revisión de avances",
+                "Coordinación del equipo"
+              ]
+            },
+            {
+              "nombre_proyecto": "Sistema de Gestión Financiera",
+              "fecha_inicio": "22/3/2023",
+              "tareas": [
+                "Definición de requisitos",
+                "Supervisión de desarrollo",
+                "Preparación de ejecutables"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "proyectos": [
+      {
+        "id": 1,
+        "nombre": "Sistema de Gestión",
+        "equipo": [
+          {"id": 101, "nombre": "Juan Pérez"},
+          {"id": 102, "nombre": "María Rodríguez"},
+          {"id": 103, "nombre": "Saturnino Rey"}
+        ],
+        "tareas": [
+          {"id": 201, "descripcion": "Diseño de la interfaz", "completada": true},
+          {"id": 202, "descripcion": "Desarrollo del backend", "completada": true},
+          {"id": 203, "descripcion": "Desarrollo del frontend", "completada": true}
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Aplicación Móvil",
+        "equipo": [
+          {"id": 104, "nombre": "Carlos Gómez"},
+          {"id": 105, "nombre": "Ana López"}
+        ],
+        "tareas": [
+          {"id": 204, "descripcion": "Desarrollo de funciones principales", "completada": true},
+          {"id": 205, "descripcion": "Pruebas de rendimiento", "completada": true}
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Detector de infrarrojos",
+        "equipo": [
+          {"id": 106, "nombre": "Raimundo Amador"},
+          {"id": 107, "nombre": "Gary Moore"}
+        ],
+        "tareas": [
+          {"id": 206, "descripcion": "Pruebas de longitud y cercanía", "completada": false},
+          {"id": 207, "descripcion": "Desarrollo de funciones secundarias", "completada": true}
+        ]
+      }
+    ]
+  }
